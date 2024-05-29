@@ -1,0 +1,10 @@
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\bin\Debug\LabÖdevHafta5.exe.config
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\bin\Debug\LabÖdevHafta5.exe
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\bin\Debug\LabÖdevHafta5.pdb
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\obj\Debug\LabÖdevHafta5.csproj.AssemblyReference.cache
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\obj\Debug\LabÖdevHafta5.Form1.resources
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\obj\Debug\LabÖdevHafta5.Properties.Resources.resources
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\obj\Debug\LabÖdevHafta5.csproj.GenerateResource.cache
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\obj\Debug\LabÖdevHafta5.csproj.CoreCompileInputs.cache
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\obj\Debug\LabÖdevHafta5.exe
+C:\Users\vıctus\source\repos\LabÖdevHafta5\LabÖdevHafta5\obj\Debug\LabÖdevHafta5.pdb
